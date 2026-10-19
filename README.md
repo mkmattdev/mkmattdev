@@ -34,6 +34,6 @@ Zależnie od tego, na jakim jesteś etapie:
 
 ---
 
-### Dlaczego nie widzisz tu publicznych repozytoriów?
+### Publiczne repozytoria
 
-Kod z projektów komercyjnych jest objęty umowami poufności, a repozytoria z zajęć prowadzę w prywatnych przestrzeniach uczniów. Praktyczne przykłady, architekturę i poradniki publikuję na blogu [mattdev.com.pl](https://mattdev.com.pl).
+Publiczne są startery i materiały dla kursantów, m.in. [devchallenge-starter](https://github.com/mkmattdev/devchallenge-starter) – starter kursu DevChallenge, punkt wyjścia do pierwszej lekcji. Kod z projektów komercyjnych jest objęty umowami poufności, a repozytoria z zajęć prowadzę w prywatnych przestrzeniach uczniów. Praktyczne przykłady, architekturę i poradniki publikuję na blogu [mattdev.com.pl](https://mattdev.com.pl).
